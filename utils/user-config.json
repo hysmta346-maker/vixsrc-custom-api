@@ -1,0 +1,26 @@
+{
+  "defaultProviders": [],
+  "configVersion": 1,
+  "tmdbApiKeys": [
+    "c5566813bac12cb82b984246e3541fc3"
+  ],
+  "enableShowboxProvider": true,
+  "febboxCookies": [
+    "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODYxMDY3ODMsIm5iZiI6MTc4NjEwNjc4MywiZXhwIjoxODE3MjEwODAzLCJkYXRhIjp7InVpZCI6MjI3NTA0MiwidG9rZW4iOiJjNTIwYTRiOWI0MTEyZmRhMDkyYmM4NjMzNGZhMzM0MSJ9fQ.NVBnjarE8g2er_BGiNiVLkQBu5ujl6mPqmw1nTyUxwE"
+  ],
+  "enable4khdhubProvider": true,
+  "enableVixsrcProvider": true,
+  "enableProxy": false,
+  "disableCache": false,
+  "enablePStreamApi": true,
+  "disableUrlValidation": false,
+  "disable4khdhubUrlValidation": false,
+  "excludeCodecsRaw": "{\"excludeDV\":false,\"excludeHDR\":false}",
+  "minQualitiesRaw": "all",
+  "enableUhdmoviesProvider": false,
+  "enableVidlinkProvider": true,
+  "enableVideasyProvider": true,
+  "enableLordflixProvider": true,
+  "enableNotorrentProvider": true
+}
+

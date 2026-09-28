@@ -1,0 +1,22 @@
+{
+  "defaultProviders": [],
+  "configVersion": 1,
+  "tmdbApiKeys": [
+    "c5566813bac12cb82b984246e3541fc3"
+  ],
+  "enableShowboxProvider": true,
+  "enable4khdhubProvider": true,
+  "enableVixsrcProvider": true,
+  "enableProxy": false,
+  "disableCache": false,
+  "enablePStreamApi": true,
+  "disableUrlValidation": false,
+  "disable4khdhubUrlValidation": false,
+  "excludeCodecsRaw": "{\"excludeDV\":false,\"excludeHDR\":false}",
+  "minQualitiesRaw": "all",
+  "enableUhdmoviesProvider": false,
+  "enableVidlinkProvider": true,
+  "enableVideasyProvider": true,
+  "enableLordflixProvider": true,
+  "enableNotorrentProvider": true
+}

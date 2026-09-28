@@ -1,0 +1,27 @@
+{
+  "name": "vixsrc-custom-api",
+  "version": "1.1.0",
+  "description": "Vixsrc Custom API",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "node server.js",
+    "start:local": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.19.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.3",
+    "express": "^5.2.1",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "node-cache": "^5.1.2",
+    "sql.js": "^1.14.1",
+    "ws": "^8.18.0"
+  }
+}

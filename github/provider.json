@@ -1,0 +1,6 @@
+{
+  "providers": [
+    "Showbox.js",
+    "vixsrc.js"
+  ]
+}
